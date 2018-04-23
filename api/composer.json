@@ -14,7 +14,8 @@
         "symfony/yaml": "^4.0"
     },
     "require-dev": {
-        "api-platform/schema-generator": "^2.1"
+        "api-platform/schema-generator": "^2.1",
+        "symfony/debug-pack": "^1.0"
     },
     "config": {
         "preferred-install": {
