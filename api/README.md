@@ -11,3 +11,5 @@
 `api_login_check:path: /api/login_check`
 
 - /!\ Be cautious : first firewall matching is the winner! Be sure the main firewall is at the end. Or removed.
+
+- Next step : `https://github.com/gesdinet/JWTRefreshTokenBundle`
